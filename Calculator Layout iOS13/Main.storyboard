@@ -287,9 +287,6 @@
                                                 </constraints>
                                             </view>
                                         </subviews>
-                                        <constraints>
-                                            <constraint firstItem="0or-yV-REp" firstAttribute="top" secondItem="cBv-an-D2M" secondAttribute="top" constant="1" id="9cJ-7B-nr0"/>
-                                        </constraints>
                                     </stackView>
                                 </subviews>
                                 <constraints>
